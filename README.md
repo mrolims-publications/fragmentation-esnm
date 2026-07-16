@@ -1,6 +1,6 @@
 # fragmentation-esnm
 
-Code repository accompanying the publication entitled "Hierarchical fragmentation of regular islands in a discontinuous nontwist map".
+Code repository accompanying the publication entitled "[Hierarchical fragmentation of regular islands in a discontinuous nontwist map](https://doi.org/10.1063/5.0335604)".
 
 This project contains the code to generate and plot all the data from all figures.
 
@@ -77,11 +77,31 @@ After generating all required datasets, run the cells in the Jupyter notebook `P
 
 The figures will be saved in a directory called `figures/`, which is created automatically by the notebook.
 
+## Citation
 
+If you use this code in your research, please consider citing the associated paper:
+
+```bibtex
+@article{Sales2026,
+author = {Sales, Matheus Rolim and Mugnaine, Michele and de Souza, Leonardo Costa and Caldas, Iberê Luiz and Denis Leonel, Edson and Szezech Jr., José Danilo},
+title = {Hierarchical fragmentation of regular islands in a discontinuous nontwist map},
+journal = {Chaos},
+volume = {36},
+number = {6},
+pages = {063129},
+year = {2026},
+month = {06},
+doi = {10.1063/5.0335604},
+url = {https://doi.org/10.1063/5.0335604},
+}
+```
 
 ## Contact
 
-For questions or feedback, feel free to [email me](mailto:rolim.sales.m@gmail.com).
+For questions, suggestions, or collaboration, please reach out to:
+
+- [rolim.sales.m[at]gmail.com](mailto:rolim.sales.m@gmail.com)
+- [mrolims.github.io](https://mrolims.github.io)
 
 ## Acknowledments
 
