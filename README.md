@@ -79,7 +79,9 @@ The figures will be saved in a directory called `figures/`, which is created aut
 
 ## Citation
 
-If you use this code in your research, please consider citing the associated paper:
+If you use this repository or parts of it in your work, please consider citing our research paper:
+
+*M. Rolim Sales et al.*, **Hierarchical fragmentation of regular islands in a discontinuous nontwist map**, *[Chaos 36, 063129 (2026)](https://doi.org/10.1063/5.0335604)*.
 
 ```bibtex
 @article{Sales2026,
